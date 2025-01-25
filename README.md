@@ -22,6 +22,17 @@ SideNavDash is a modern and responsive dashboard application built with **Next.j
 
 Follow the steps below to set up the project locally.
 
+## Contributing
+- Fork the repository.
+- Create a branch for your changes: `git checkout -b feature-name`.
+- Push your branch and open a pull request.
+
+## Contributing Guidelines
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Ensure your code is clean and well-documented.
+4. Submit a pull request with a detailed explanation of the changes.
+
 ### Prerequisites
 
 Make sure you have the following installed:
