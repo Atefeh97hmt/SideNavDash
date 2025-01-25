@@ -84,21 +84,6 @@ Make sure you have the following installed:
 - **Sidebar Toggle**: Use the button at the bottom of the sidebar to collapse or expand it.
 - **Charts**: The Bar and Line charts display dynamic data. Modify the `barData` and `lineData` objects in the `Dashboard` component to update chart content.
 
-## Screenshots
-
-### Full Sidebar
-![Full Sidebar Screenshot](https://via.placeholder.com/800x400?text=Full+Sidebar)
-
-### Collapsed Sidebar
-![Collapsed Sidebar Screenshot](https://via.placeholder.com/800x400?text=Collapsed+Sidebar)
-
-### Charts View
-![Charts Screenshot](https://via.placeholder.com/800x400?text=Charts)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 Feel free to customize it according to your project requirements. Happy coding! 🚀
